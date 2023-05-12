@@ -1,0 +1,10 @@
+package Taskk1
+
+fun  main(){
+    var num2= readln().toInt()
+    if (num2==10)
+        println("The value of num2 is [$num2]")
+    else
+        println("not found")
+
+}
